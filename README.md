@@ -10,7 +10,9 @@ This project demonstrates how to control a room light using Firebase and NodeMCU
 - NodeMCU (ESP8266): The NodeMCU board is used to control the servo motor and interact with Firebase.
 - Firebase: The Firebase Realtime Database is used to store and sync the state of the light.
 - MIT App Inventor: The mobile app is created using MIT App Inventor to send commands to Firebase.
-- 
+- I created the mobile app part using MIT App Inventor.
+You can create the mobile side by doing a quick research.
+I cannot share my own app as it would not be appropriate.
 ## Getting Started
 To get started with this project, follow these steps:
 
