@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 7. Use the mobile app to control the room light and observe the changes in real-time.
 
 ## Circuit Diagram and Mobil app
-![zyro-image](https://github.com/ozermehmett/Control-Room-Light-with-Firebase-and-NodeMCU/assets/115498182/d7de88cf-9548-4168-bb3c-3f3dbfbd44d1)
+![zyro-image](https://github.com/ozermehmett/Control-Room-Light-with-Firebase-and-NodeMCU/assets/115498182/d3830753-24ab-4648-a590-767074a30e9f)
 
 ## Did you find this repository helpful?
 Do not forget to give a start
